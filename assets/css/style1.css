@@ -1,0 +1,20 @@
+.appointment-container{
+    background-image: url('../images/appoiment-bg-main.jpg');
+    background-repeat: no-repeat;
+    padding: 100px;
+    background-position: center;
+}
+
+.appointment-container .appointment .head-left{
+    margin-left: 40px;
+}
+
+.appointment-container .appointment .head-left h2{
+    font-family:"Montserrat", sans-serif;
+}
+
+.appointment-btn:hover{
+    background-color: #ffffff;
+    color: #4fc6e1;
+    border-color: #ffffff;
+}
